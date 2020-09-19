@@ -5,7 +5,7 @@
 
 Since I collected a bunch of sneaker images, I thought it would be interesting to train a GAN model to generate unique sneaker silhouettes. In particular, I wanted to see what were the distinguishing features between cheaper (<$500) and more expensive (>$500) shoes. 
 
-Medium article to this project: 
+Medium article: https://bit.ly/2H84ILg
 
 
 
